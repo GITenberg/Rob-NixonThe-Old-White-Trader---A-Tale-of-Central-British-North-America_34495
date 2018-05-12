@@ -1,0 +1,36 @@
+_repo: Rob-NixonThe-Old-White-Trader---A-Tale-of-Central-British-North-America_34495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2010-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Description and travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunters -- Juvenile fiction'
+- !lcsh 'Prairies -- Juvenile fiction'
+- !lcsh 'Ojibwa Indians -- Juvenile fiction'
+- !lcsh 'Survival -- Juvenile fiction'
+title: 'Rob Nixon, the Old White Trader: A Tale of Central British North America'
+url: http://www.gutenberg.org/ebooks/34495
